@@ -113,21 +113,3 @@ force_plot (Tekil Örnek Açıklaması)
 
 decision_plot (Karar Yolu Katkısı)
 
-📂 **Teslim Edilenler**
-Bu GitHub deposunda aşağıdaki çıktılar mevcuttur:
-
-uskudar_yl_yapay_sinir_aglari_ara_sinav.ipynb (veya .py): Tüm kodun, grafiklerin ve metrik sonuçlarının bulunduğu ana Jupyter/Colab Notebook dosyası. (Tüm grafikler altında kısa açıklamalar mevcuttur).
-
-
-Rapor.docx (veya .pdf): Projenin detaylı analizlerini ve yorumlarını içeren Word Raporu.
-
-[Diğer Dosyalar, örn: data.csv]
-
-🔗 **Nasıl Çalıştırılır**
-Bu depoyu klonlayın: git clone [Depo Adresi]
-
-Gerekli kütüphaneleri yükleyin: pip install -r requirements.txt (Eğer oluşturduysanız)
-
-uskudar_yl_yapay_sinir_aglari_ara_sinav.ipynb dosyasını bir Jupyter ortamında veya Google Colab'de açıp çalıştırın.
-
-[Sümeyye Bilgin] [254312013]
